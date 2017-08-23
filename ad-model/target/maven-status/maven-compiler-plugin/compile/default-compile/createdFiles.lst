@@ -1,0 +1,4 @@
+com/assistdesk/model/TicketDb.class
+com/assistdesk/model/UserDb.class
+com/assistdesk/model/CommentDb.class
+com/assistdesk/model/HistoryDb.class

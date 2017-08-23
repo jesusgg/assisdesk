@@ -1,0 +1,3 @@
+com/assistdesk/spring/config/WebConfig.class
+com/assistdesk/api/controller/AssistDeskRestController.class
+com/assistdesk/api/service/EmailPullService.class
