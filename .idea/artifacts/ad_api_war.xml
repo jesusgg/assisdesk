@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="ad-api:war">
-    <output-path>$PROJECT_DIR$/ad-api/target</output-path>
-    <root id="archive" name="assisdesk.war">
-      <element id="artifact" artifact-name="ad-api:war exploded" />
-    </root>
-  </artifact>
-</component>
